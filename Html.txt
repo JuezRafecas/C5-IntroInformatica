@@ -1,0 +1,7 @@
+HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup 
+Language) es el componente más básico de la Web. Define el significado y 
+la estructura del contenido web.
+
+Un elemento HTML se forma mediante una etiqueta , que sirve como 
+descriptor para cada contenido de su página. Como ejemplo, la <p> 
+etiqueta se usa para describir un elemento HTML de párrafo .
