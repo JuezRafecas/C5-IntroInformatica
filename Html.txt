@@ -2,6 +2,11 @@ HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup
 Language) es el componente más básico de la Web. Define el significado y 
 la estructura del contenido web.
 
+"Hipertexto" hace referencia a los enlaces que conectan páginas web entre sí,
+ ya sea dentro de un único sitio web o entre sitios web. Los enlaces son un aspecto fundamental
+ de la Web. Al subir contenido a Internet y vincularlo a las páginas creadas por otras personas,
+ te conviertes en un participante activo en la «World Wide Web» (Red Informática Mundial)
+
 Un elemento HTML se forma mediante una etiqueta , que sirve como 
 descriptor para cada contenido de su página. Como ejemplo, la <p> 
 etiqueta se usa para describir un elemento HTML de párrafo .
@@ -10,3 +15,4 @@ La primera línea, <DOCTYPE! html>se denomina declaración de tipo de
 documento . Se utiliza para indicar a un navegador en qué versión HTML 
 está escrito el archivo. Para este archivo, especificar htmlindica que 
 el archivo está escrito en HTML5.
+
