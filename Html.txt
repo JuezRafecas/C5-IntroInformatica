@@ -16,3 +16,4 @@ documento . Se utiliza para indicar a un navegador en qué versión HTML
 está escrito el archivo. Para este archivo, especificar htmlindica que 
 el archivo está escrito en HTML5.
 
+Esto es un ejemplo.
