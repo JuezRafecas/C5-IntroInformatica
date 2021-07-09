@@ -5,3 +5,8 @@ la estructura del contenido web.
 Un elemento HTML se forma mediante una etiqueta , que sirve como 
 descriptor para cada contenido de su página. Como ejemplo, la <p> 
 etiqueta se usa para describir un elemento HTML de párrafo .
+
+La primera línea, <DOCTYPE! html>se denomina declaración de tipo de 
+documento . Se utiliza para indicar a un navegador en qué versión HTML 
+está escrito el archivo. Para este archivo, especificar htmlindica que 
+el archivo está escrito en HTML5.
